@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edittext_answer" type="id" />
+    <item name="textview_message" type="id" />
+</resources>
